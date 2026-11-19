@@ -1,6 +1,7 @@
 # TaskSprintTracker
 
 A small REST API for tracking projects and their tasks, built with ASP.NET Core (.NET 8), EF Core and SQLite. Tasks have a status, priority, due date and an optional estimate in hours, and each project exposes a quick summary endpoint.
+RESTful Web API for tracking projects and tasks built with C#, ASP.NET Core (.NET 8), Entity Framework Core, and SQLite.
 
 ## Layout
 ```
